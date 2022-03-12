@@ -4,7 +4,7 @@
 This is a repository of JEMARO special lecture: comcurrent computing for Robotics by Dr.Jasmin Jahic.
 
 <a href="http://www.hvrl.ics.keio.ac.jp/saito_y/images/JEMARO/ConcurrentComputing/JEMARO_Logo.png" target="_blank"><img src="http://www.hvrl.ics.keio.ac.jp/saito_y/images/JEMARO/ConcurrentComputing/JEMARO_Logo.png" 
-alt="JEMAROLogo" width="1000" height="413" border="300" /></a>
+alt="JEMAROLogo" width="594" height="139" border="300" /></a>
 
 
 
@@ -61,10 +61,3 @@ alt="JEMAROLogo" width="1084" height="333" border="300" /></a>
 alt="JEMAROLogo" width="1084" height="333" border="300" /></a>
 
 
-# 4. Demo Results
-
-now creating...
-
-[comment]: <> (<a href="http://hvrl.ics.keio.ac.jp/saito_y/site/FCV2020.png/" target="_blank"><img src="http://hvrl.ics.keio.ac.jp/saito_y/site/FCV2020.png")
-
-[comment]: <> (alt="ORB-SLAM2" width="916" height="197" border="30" /></a>)
