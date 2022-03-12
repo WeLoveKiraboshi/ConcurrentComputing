@@ -53,12 +53,12 @@ For image_filtering
 ### Matrix multiplication Results (latency & gain)
 
 <a href="http://www.hvrl.ics.keio.ac.jp/saito_y/images/JEMARO/ConcurrentComputing/ArrayMultiplicationResult.png" target="_blank"><img src="http://www.hvrl.ics.keio.ac.jp/saito_y/images/JEMARO/ConcurrentComputing/ArrayMultiplicationResult.png"
-alt="JEMAROLogo" width="1000" height="413" border="300" /></a>
+alt="JEMAROLogo" width="1084" height="333" border="300" /></a>
 
 ### Bilateral Image Filtering Results (latency & gain)
 
 <a href="http://www.hvrl.ics.keio.ac.jp/saito_y/images/JEMARO/ConcurrentComputing/BilteralFilteringResult.png" target="_blank"><img src="http://www.hvrl.ics.keio.ac.jp/saito_y/images/JEMARO/ConcurrentComputing/BilteralFilteringResult.png"
-alt="JEMAROLogo" width="1000" height="413" border="300" /></a>
+alt="JEMAROLogo" width="1084" height="333" border="300" /></a>
 
 
 # 4. Demo Results
