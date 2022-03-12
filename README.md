@@ -4,7 +4,7 @@
 This is a repository of JEMARO special lecture: comcurrent computing for Robotics by Dr.Jasmin Jahic.
 
 <a href="http://www.hvrl.ics.keio.ac.jp/saito_y/images/JEMARO/ConcurrentComputing/JEMARO_Logo.png" target="_blank"><img src="http://www.hvrl.ics.keio.ac.jp/saito_y/images/JEMARO/ConcurrentComputing/JEMARO_Logo.png" 
-alt="JEMAROLogo" width="584" height="413" border="300" /></a>
+alt="JEMAROLogo" width="1000" height="413" border="300" /></a>
 
 
 
@@ -53,12 +53,12 @@ For image_filtering
 ### Matrix multiplication Results (latency & gain)
 
 <a href="http://www.hvrl.ics.keio.ac.jp/saito_y/images/JEMARO/ConcurrentComputing/ArrayMultiplicationResult.png" target="_blank"><img src="http://www.hvrl.ics.keio.ac.jp/saito_y/images/JEMARO/ConcurrentComputing/ArrayMultiplicationResult.png"
-alt="JEMAROLogo" width="584" height="413" border="300" /></a>
+alt="JEMAROLogo" width="1000" height="413" border="300" /></a>
 
 ### Bilateral Image Filtering Results (latency & gain)
 
 <a href="http://www.hvrl.ics.keio.ac.jp/saito_y/images/JEMARO/ConcurrentComputing/BilteralFilteringResult.png" target="_blank"><img src="http://www.hvrl.ics.keio.ac.jp/saito_y/images/JEMARO/ConcurrentComputing/BilteralFilteringResult.png"
-alt="JEMAROLogo" width="584" height="413" border="300" /></a>
+alt="JEMAROLogo" width="1000" height="413" border="300" /></a>
 
 
 # 4. Demo Results
